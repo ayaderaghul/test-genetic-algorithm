@@ -2,15 +2,15 @@
 For information on genetic algorithm, please see https://github.com/Ishikawa7/Quick-paths-to-start/blob/main/Genetic%20algorithms/README.md
 
 # the problem
-Given a list of products with different quantities. Find a way to put products into a van so that we maximize the total value of the van, given the constraint of the space of the van
+Given a list of products with different quantities. Find a way to put products into a van so that we maximize the value of the products, given the constraint of the space of the van
 
 # algorithm implementation and testing
 the main algorithm is in `test_main.py`
 
 run `pytest` to test the algorithm
 
-# to run the simulation for the solution
-- edit `products.csv` file for different configurations of the problem
+# to run the simulation for the solution:
+- edit `products.csv` file for different configuations of the problem
 - enable python virtual environment
 - choose how many iterations to run and the size of the population in `main.py`
 - run `python3 main.py`
