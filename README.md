@@ -19,6 +19,6 @@ Typical printout:
 
 
 >Iteration 498: Avg. fitness 324.827, Best fitness 32383.7, Genome 2 2 1 2 0 1 0 1 3 9 1 0 1 1
-Iteration 499: Avg. fitness 324.827, Best fitness 32383.7, Genome 2 2 1 2 0 1 0 1 3 9 1 0 1 1
+> Iteration 499: Avg. fitness 324.827, Best fitness 32383.7, Genome 2 2 1 2 0 1 0 1 3 9 1 0 1 1
 
 The genome is the quantity of each product to be put in the van
