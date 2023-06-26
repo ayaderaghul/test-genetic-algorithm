@@ -137,9 +137,3 @@ def evolve(population, mutation_chance=0.01):
         new_population.append(child1)
         new_population.append(child2)
     return new_population[0:population_size]
-
-ITERATION = 500
-population = generate_population(100)
-for i in range(ITERATION):
-    evolve(population)
-    print_stats(population, i)
