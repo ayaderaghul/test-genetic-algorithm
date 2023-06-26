@@ -18,8 +18,12 @@ run `pytest` to test the algorithm
 Typical printout:
 
 
->Iteration 498: Avg. fitness 324.827, Best fitness 32383.7, Genome 2 2 1 2 0 1 0 1 3 9 1 0 1 1
+>Iteration 498: Avg. fitness 305.2874, Best fitness 30429.739999999998, Genome 1 2 1 0 0 2 2 5 5 8 0 1 0 2
 
-> Iteration 499: Avg. fitness 324.827, Best fitness 32383.7, Genome 2 2 1 2 0 1 0 1 3 9 1 0 1 1
+> Iteration 499: Avg. fitness 491.0916, Best fitness 49010.16, Genome 0 2 0 4 4 2 1 5 6 7 0 1 0 1
 
 The genome is the quantity of each product to be put in the van
+
+Best fitness overtime is in `result.png`
+
+<img src="https://github.com/ayaderaghul/test-genetic-algorithm/blob/main/result.png">
