@@ -116,9 +116,10 @@ def print_stats(population, iteration_number):
         iteration_number,
         average_fitness,
         fitness_function(best),
-        genome_to_string(best)
+        genome_to_string(best),
+        # population_fitness(population)
     ))
-    return best
+    return fitness_function(best), average_fitness 
 
 
 def evolve(population, mutation_chance=0.01):
