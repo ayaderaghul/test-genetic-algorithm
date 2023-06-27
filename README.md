@@ -26,4 +26,4 @@ The genome is the quantity of each product to be put in the van
 
 Best fitness overtime is in `result.png`
 
-<img src="https://github.com/ayaderaghul/test-genetic-algorithm/blob/main/result.png">
+<img src="https://github.com/ayaderaghul/test-genetic-algorithm/blob/main/result2.png">
